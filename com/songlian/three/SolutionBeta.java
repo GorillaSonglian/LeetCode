@@ -9,7 +9,7 @@ public class SolutionBeta {
 
     public int lengthOfLongestSubstring(String s) {
         int max = 0;
-
+        // May Use array
         return max;
     }
 }
