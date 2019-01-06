@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551437ab-04a7-4d82-994e-3f6318dfffa2" name="Default Changelist" comment="need to add beta solution">
-      <change afterPath="$PROJECT_DIR$/com/songlian/four/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/songlian/four/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/songlian/four/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/songlian/four/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/songlian/four/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="225">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,8 +147,8 @@
         <option value="$PROJECT_DIR$/com/songlian/three/SolutionTest.java" />
         <option value="$PROJECT_DIR$/com/songlian/three/Solution.java" />
         <option value="$PROJECT_DIR$/com/songlian/three/SolutionBeta.java" />
-        <option value="$PROJECT_DIR$/com/songlian/four/Solution.java" />
         <option value="$PROJECT_DIR$/com/songlian/four/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/com/songlian/four/Solution.java" />
       </list>
     </option>
   </component>
@@ -220,7 +218,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546766042942" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546766249758" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -363,7 +361,7 @@
       <workItem from="1546400680618" duration="91000" />
       <workItem from="1546401574087" duration="8208000" />
       <workItem from="1546671745923" duration="562000" />
-      <workItem from="1546764658795" duration="1128000" />
+      <workItem from="1546764658795" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="use while loop">
       <created>1546437369451</created>
@@ -397,12 +395,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Manual_container_configuration__SolutionTest - 2019.01.04 at 10h 26m 54s.xml">
-      <configuration name="Manual container configuration: SolutionTest" configurationId="ArquillianJUnit" />
-    </history-entry>
-    <history-entry file="Manual_container_configuration__SolutionTest - 2019.01.04 at 10h 28m 24s.xml">
-      <configuration name="Manual container configuration: SolutionTest" configurationId="ArquillianJUnit" />
-    </history-entry>
     <history-entry file="SolutionTest - 2019.01.04 at 10h 39m 39s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
@@ -421,12 +413,25 @@
     <history-entry file="SolutionTest - 2019.01.04 at 10h 43m 56s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SolutionTest - 2019.01.06 at 17h 12m 04s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2019.01.06 at 17h 12m 11s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest - 2019.01.06 at 17h 12m 21s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_(1) - 2019.01.06 at 17h 12m 31s.xml">
+      <configuration name="SolutionTest (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15018000" />
+    <option name="totallyTimeSpent" value="15198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="546" y="35" width="348" height="830" id="Project" order="0" visible="true" weight="0.26323318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -551,8 +556,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/songlian/four/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="225">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
