@@ -13,11 +13,7 @@ public class Solution {
     }
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        //dummydsda
-       Object[] both = Stream.of(nums1, nums2).flatMap(Stream::of).sorted().toArray();
-        if (both.length % 2 ==0 ) {
-            return ((int) both[both.length/2] + (int) both[both.length/2 -1]) /2;
-        }
-        return (int)both[both.length/2];
+        int length = nums1.length + nums2.length;
+        int counter
     }
 }
