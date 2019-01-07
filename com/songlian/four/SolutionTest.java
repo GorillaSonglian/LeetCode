@@ -16,6 +16,10 @@ class SolutionTest {
         int[] nums3 = {1,3};
         int[] nums4 = {2,4};
         double two = solution.findMedianSortedArrays(nums3, nums4);
-        assertEquals(two, 2.5);
+        assertEquals(2.5, two);
+        int[] nums5 = {1,3,5,7,9};
+        int[] nums6 = {2,4,6,8,10};
+        double three = solution.findMedianSortedArrays(nums5, nums6);
+        assertEquals(5.5, three);
     }
 }
