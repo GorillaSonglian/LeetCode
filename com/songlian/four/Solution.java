@@ -1,10 +1,5 @@
 package songlian.four;
 
-import com.sun.tools.javac.util.ArrayUtils;
-
-import java.util.Arrays;
-import java.util.stream.Stream;
-
 public class Solution {
 
     public static void main(String[] args) {

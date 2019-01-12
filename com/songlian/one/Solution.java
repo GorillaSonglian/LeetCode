@@ -1,5 +1,6 @@
 package songlian.one;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +12,6 @@ public class Solution {
 
         Solution instance = new Solution();
     }
-
     // 7ms solution
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
