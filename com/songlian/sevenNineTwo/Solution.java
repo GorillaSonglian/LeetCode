@@ -2,6 +2,7 @@ package songlian.sevenNineTwo;
 
 public class Solution {
 
+    // This Solution is too slow!!!
     public static void main(String[] args) {
 
         Solution instance = new Solution();
