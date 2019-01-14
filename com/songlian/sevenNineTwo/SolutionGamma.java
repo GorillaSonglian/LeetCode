@@ -3,7 +3,7 @@ package songlian.sevenNineTwo;
 import java.util.HashSet;
 
 public class SolutionGamma {
-
+    // Fastest
     public static void main(String[] args) {
 
         SolutionGamma instance = new SolutionGamma();
