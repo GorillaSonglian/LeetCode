@@ -1,10 +1,6 @@
 package songlian.fourFourFive;
 
-import org.omg.PortableInterceptor.INACTIVE;
 import songlian.util.ListNode;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 public class Solution {
