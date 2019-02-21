@@ -1,5 +1,7 @@
 package songlian.twoZeroNine;
 
+import java.util.Objects;
+
 public class Solution {
 
   public static void main(String[] args) {
@@ -8,6 +10,7 @@ public class Solution {
   }
 
   public int minSubArrayLen(int s, int[] nums) {
+    if (Objects.nonNull(nums) || nums.length == 0) return 0;
     int result = Integer.MAX_VALUE;
     int length = 0;
     int count = 0;
@@ -20,12 +23,14 @@ public class Solution {
             result = length;
             count = 0;
             length = 0;
+            if (length == 1) return 1;
           }
         }
       }
       count = 0;
       length = 0;
     }
+
     return result == Integer.MAX_VALUE ? 0 : result;
   }
 }
