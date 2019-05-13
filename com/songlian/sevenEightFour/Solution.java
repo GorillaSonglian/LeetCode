@@ -15,7 +15,7 @@ public class Solution {
         return result;
     }
 
-    public void backTracking(List<String> result, int index, char[] input) {
+    private void backTracking(List<String> result, int index, char[] input) {
         if (index == input.length) {
             result.add(new String(input));
         } else {
